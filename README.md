@@ -18,3 +18,10 @@ Clone the repository and open it
 - :not() function
 - Basic CSS styling
 - Basic HTML
+
+
+## Author
+
+Created by: **Shijie Dong**
+
+Year/Month: **2026 February**
